@@ -321,20 +321,9 @@ node migrate-judge0.cjs
 # Validate environment variables
 ```
 
----
-
-## 📧 Support & Community
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Raiyyanpatel/PrepVerse/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/Raiyyanpatel/PrepVerse/discussions)
-- 📧 **Email Support**: [raiyyanpatel@example.com](mailto:raiyyanpatel@example.com)
-- 💬 **Community Chat**: [Discord Server](https://discord.gg/your-server)
-
----
-
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**
 
 ---
 
@@ -349,17 +338,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - 🤝 **Open Source Community** for continuous inspiration
 
 ---
----
 
 <div align="center">
 
 **⭐ If this project helped you, please consider giving it a star!**
 
-[🚀 Get Started](https://prepverse.vercel.app) • [📖 Documentation](https://github.com/Raiyyanpatel/PrepVerse/wiki) • [🐛 Report Bug](https://github.com/Raiyyanpatel/PrepVerse/issues) • [💡 Request Feature](https://github.com/Raiyyanpatel/PrepVerse/discussions)
-
 ---
 
-**Made with ❤️ by [Raiyyan Patel](https://github.com/Raiyyanpatel)**
+**Made with ❤️ by [Raiyyan Patel](https://github.com/Raiyyanpatel) & [Mufiz Arbee](https://github.com/MArbeeGit)**
 
 </div>
+
 

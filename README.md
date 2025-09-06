@@ -349,11 +349,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - 🤝 **Open Source Community** for continuous inspiration
 
 ---
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Raiyyanpatel/PrepVerse&type=Date)](https://star-history.com/#Raiyyanpatel/PrepVerse&Date)
-
 ---
 
 <div align="center">
@@ -367,3 +362,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Made with ❤️ by [Raiyyan Patel](https://github.com/Raiyyanpatel)**
 
 </div>
+
